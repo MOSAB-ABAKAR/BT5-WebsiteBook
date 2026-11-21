@@ -35,9 +35,19 @@ BT5-WebsiteBook/
 ├── index.html
 └── README.md
 
-## screenshots
+## Screenshots
 
-ebook cover: [assets/ebook.png]
+### Home Page
+![Home Page](images/home.png)
+
+### Form
+![Form](images/form.png)
+
+### Price
+![Price](images/price.png)
+
+### Rating
+![Rating](images/rate.png)
 
  ## Getting Started
 1. Clone the repository
