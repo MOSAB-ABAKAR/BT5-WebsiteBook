@@ -35,6 +35,10 @@ BT5-WebsiteBook/
 ├── index.html
 └── README.md
 
+## screenshots
+
+ebook cover: [assets/ebook.png]
+
  ## Getting Started
 1. Clone the repository
 bash
