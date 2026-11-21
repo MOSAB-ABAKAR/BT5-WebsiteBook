@@ -51,11 +51,11 @@ BT5-WebsiteBook/
 
  ## Getting Started
 1. Clone the repository
-bash
+bash:
 git clone https://github.com/MOSAB-ABAKAR/BT5-WebsiteBook.git
 
 2. Navigate to the project folder
-bash
+bash:
 cd BT5-WebsiteBook
 
 3. Run the website
